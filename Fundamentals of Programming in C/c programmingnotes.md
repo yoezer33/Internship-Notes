@@ -1,6 +1,6 @@
 
 ## 1. Hello, World!
-I learned that C is a compiled language — you write code, a compiler (like GCC) turns it into an executable, then you run that. Every program starts in `main()`, and `printf` (from `stdio.h`) is used to print text.
+I learned that C is a compiled language — write code, a compiler (like GCC) turns it into an executable, then  run that. Every program starts in `main()`, and `printf` (from `stdio.h`) is used to print text.
 
 ```c
 #include <stdio.h>
